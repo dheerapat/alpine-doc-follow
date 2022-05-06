@@ -1,1 +1,1 @@
-## This is a file after following Alpine.js's Documentation
+# This is a file after following Alpine.js's Documentation
